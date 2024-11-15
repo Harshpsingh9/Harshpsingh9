@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harshwevns@gmail.com**
 
-- ⚡ Fun fact ** : Turning complex data into easy-to-understand visuals.**
+- ⚡ Fun fact **  Turning complex data into easy-to-understand visuals.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
