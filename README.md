@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/b9d78229-ec89-4d21-bde5-18b61c2bd4fd)
 
 <h1 align="center">Hi 👋, I'm Harsh Pratap Singh</h1>
 <h3 align="center">Aspiring Data Analyst| Making Data Clear and Actionable.</h3>
