@@ -1,19 +1,21 @@
-
 <h1 align="center">Hi 👋, I'm Harsh Pratap Singh</h1>
-<h3 align="center">Aspiring Data Analyst | Making Data Clear and Actionable.</h3>
+<h3 align="center">Aspiring Data Analyst| Making Data Clear and Actionable.</h3>
 <img align="right" alt="Analyst" width=400 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpsingh9&label=Profile%20views&color=0e75b6&style=flat" alt="harshpsingh9" /> </p>
+
+- 👨‍💻 All of my projects are available at Linkdin
 
 - 💬 Ask me about **Power BI, Excel, MySQL**
 
 - 📫 How to reach me **harshwevns@gmail.com**
 
-- ⚡ Fun fact **  Turning complex data into easy-to-understand visuals.**
+- ⚡ Fun fact **Turning complex data into easy-to-understand visuals.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harsh-pratap-singh-hps7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-pratap-singh-hps7/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-pratap-singh-hps7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-pratap-singh-hps7/" height="30" width="40" /></a>
+<a href="https://instagram.com/_hxrsh_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hxrsh_p" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshpsingh9&show_icons=true&locale=en" alt="harshpsingh9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshpsingh9&" alt="harshpsingh9" /></p>
-
